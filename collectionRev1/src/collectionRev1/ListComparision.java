@@ -5,6 +5,11 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * compares list implementation performance
+ * @author jarvis
+ *
+ */
 public class ListComparision {
 
 	public static void main(String[] args) {
