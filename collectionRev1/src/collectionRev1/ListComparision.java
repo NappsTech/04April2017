@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * compares list implementation performance
- * @author jarvis nkm
+ * @author jarvis
  *
  */
 public class ListComparision {
@@ -54,10 +54,8 @@ public class ListComparision {
 	    
 	    int binarySearch = Collections.binarySearch(list, 59999);
 	    System.out.println(binarySearch);
-	    
-	    // comment test for ver1.0br
-	    // added comment for branch2
-	    
+	 // added comment for branch1
+	
 	}
 
 }
