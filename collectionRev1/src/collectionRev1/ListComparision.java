@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * compares list implementation performance
- * @author jarvis nkm
+ * @author jarvis
  *
  */
 public class ListComparision {
