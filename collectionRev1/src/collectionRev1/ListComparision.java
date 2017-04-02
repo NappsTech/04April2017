@@ -15,6 +15,7 @@ public class ListComparision {
 	public static void main(String[] args) {
 		
 		System.out.println("added greeting new");
+		System.out.println("phone:98765435362");
 
 		List<Integer> list = new ArrayList<>();
 		long t1 = System.currentTimeMillis();
