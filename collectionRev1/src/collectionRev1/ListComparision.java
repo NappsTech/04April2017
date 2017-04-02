@@ -55,9 +55,6 @@ public class ListComparision {
 	    int binarySearch = Collections.binarySearch(list, 59999);
 	    System.out.println(binarySearch);
 	    
-	    // comment test for ver1.0br
-	    // added comment for branch2
-	    
 	}
 
 }
