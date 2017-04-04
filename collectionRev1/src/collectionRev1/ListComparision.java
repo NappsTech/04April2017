@@ -15,7 +15,7 @@ public class ListComparision {
 
 	public static void main(String[] args) {
 		
-		System.out.println("added greeting new");
+		System.out.println("hello world");
 		System.out.println("phone:123456789");
 		System.out.println("email: nospam@gmail.com");
 
