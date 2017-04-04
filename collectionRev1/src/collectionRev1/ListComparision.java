@@ -16,7 +16,7 @@ public class ListComparision {
 	public static void main(String[] args) {
 		
 		System.out.println("added greeting new");
-		System.out.println("phone:98765435362");
+		System.out.println("phone:123456789");
 		System.out.println("email: nospam@gmail.com");
 
 		List<Integer> list = new ArrayList<>();
