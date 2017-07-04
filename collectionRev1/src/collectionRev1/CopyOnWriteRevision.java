@@ -7,7 +7,9 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 public class CopyOnWriteRevision {
-
+	
+	
+    // Test1
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CopyOnWriteArrayList<Object> list = new CopyOnWriteArrayList<>(Arrays.asList(new String[] { "a", "b" }));
