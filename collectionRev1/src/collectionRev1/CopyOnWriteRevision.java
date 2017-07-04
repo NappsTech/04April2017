@@ -10,6 +10,7 @@ public class CopyOnWriteRevision {
 	
 	
     // Test1
+	// change by other developers.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		CopyOnWriteArrayList<Object> list = new CopyOnWriteArrayList<>(Arrays.asList(new String[] { "a", "b" }));
